@@ -2,7 +2,7 @@
 
 A Python and Streamlit application for knowledge graph-based Retrieval-Augmented Generation (GraphRAG), multi-hop retrieval and citation-backed question answering using Neo4j and local LLM inference through Ollama.
 
-Based on **CodinzHub GraphRAG**, originally developed by **Coder Coder** ([CodinzHub Projects](https://www.codinzhub.com/projects)).
+
 
 ## Key Features
 
@@ -134,8 +134,4 @@ The following are proposed extensions, not currently claimed as implemented:
 - Automated unit and integration tests using Pytest
 - Authentication and secure deployment
 
-## Acknowledgements and License
 
-GraphMind AI is a renamed adaptation of **CodinzHub GraphRAG**, originally developed by **Coder Coder**. Visit [CodinzHub Projects](https://www.codinzhub.com/projects) for the original project collection.
-
-This README update does not establish new functional contributions. The original project’s license and copyright notices govern reuse; retain them and verify that redistribution and modification are permitted before publishing. The original repository URL and license terms were not supplied with this README.
